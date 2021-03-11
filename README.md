@@ -4,7 +4,7 @@
 
 ### About me
 
-- I'm a {backend, frontend and mobile} novice developer
+- :computer: I'm a {backend, frontend and mobile} novice developer
 
 ### I have knowledge in:
 

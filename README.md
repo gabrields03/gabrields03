@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Gabriel Domingos de Souza! 👋
+
+- 🌱 I am currently learning about React Native.
 
 <!--
 **gabrields03/gabrields03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

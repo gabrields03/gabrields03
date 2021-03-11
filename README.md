@@ -2,6 +2,16 @@
 
 - 🌱 I am currently learning about React Native.
 
+### About me
+
+- I'm a {backend, frontend and mobile} novice developer
+
+### I have knowledge in:
+
+ - Languages: Javascript and PHP;
+ - Mobile: React Native and Ionic;
+ - Others Technologies: Node.js
+
 <!--
 **gabrields03/gabrields03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

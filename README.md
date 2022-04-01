@@ -25,8 +25,17 @@
 
 ---
 
-:e-mail:
-Caso queira entrar em contato, mande-me um [email](mailto:gbdomingos03@gmail.com)
+### Entre em contato
+<p align="center">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:gbdomingos03@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gbdomingos03@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gabriel-souza-98a471208/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/gabriel-souza-98a471208/">
+    </a>
+</p>
  
 
 

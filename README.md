@@ -1,4 +1,4 @@
-### Olá, eu sou Gabriel Domingos! 👋
+### Olá, eu sou Gabriel Domingos de Souza! 👋
 
 - 🌱 Atualmente estou focado em aprimorar minhas habilidades com a linguagem javascript utilizando os frameworks Node e React
 

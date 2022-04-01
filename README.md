@@ -8,6 +8,7 @@
 
 - :books: Estou cursando Ciência da Computação na Universidade Federal de Juiz de Fora
 - :computer: Sou um desenvolvedor iniciante em busca de evoluir cada dia mais
+- 🤖 Participei de torneios de robótica FLL pela Equipe Delta de São João Nepomuceno 
 
 ---
 

@@ -1,6 +1,6 @@
 ### Olá, eu sou Gabriel Domingos de Souza! 👋
 
-- 🌱 Atualmente estou focado em aprimorar minhas habilidades com a linguagem Javascript utilizando as tecnologias Node e React
+- 🌱 Atualmente estou focado em aprimorar minhas habilidades com Javascript, utilizando principalmente as tecnologias Node e React
 
 ---
 
